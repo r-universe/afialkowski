@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SimCorrMix"]
+	path = SimCorrMix
+	url = https://github.com/afialkowski/simcorrmix
+	shallow = true
+	registered = true
+[submodule "SimMultiCorrData"]
+	path = SimMultiCorrData
+	url = https://github.com/afialkowski/simmulticorrdata
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "SimCorrMix",
+    "oncran": true
+  },
+  {
+    "package": "SimMultiCorrData",
+    "oncran": true
+  }
+]
